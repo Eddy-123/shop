@@ -89,8 +89,9 @@ local_settings.py
 .env
 db.sqlite3
 .vscode/
+.shop/
 media/
 cert.crt
 cert.key
-
+static/
 
